@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to this simple Project !!   </h1>
-<h2> Deploying on a Docker Container Managed host via Ansible</h2>
+<h1> Hello, Welcome to this sample POC !!   </h1>
+<h2> Deploying Service on one Zone via Kubernetes-Ansible</h2>
